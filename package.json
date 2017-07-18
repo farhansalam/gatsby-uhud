@@ -1,0 +1,12 @@
+{
+  "name": "uhud",
+  "version": "0.1.0",
+  "description": "Uhud website",
+  "main": "index.js",
+  "author": "farhansalam",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^1.2.0",
+    "gatsby-link": "^1.0.9"
+  }
+}
